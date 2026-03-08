@@ -1,0 +1,13 @@
+{
+    "name": "com.auburnhill.scriptableevents",
+    "version": "2.1.0",
+    "displayName": "AuburnHill Scriptable Events",
+    "description": "A lightweight, flexible event system using ScriptableObjects for decoupled communication in Unity.",
+    "unity": "2021.3",
+    "author": {
+        "name": "AuburnHill",
+        "email": "camsha@gmail.com"
+    },
+    "license": "MIT",
+    "dependencies": {}
+}
